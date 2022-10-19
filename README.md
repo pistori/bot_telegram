@@ -75,14 +75,13 @@ python botTelegram.py SEU_TOKEN_AQUI
 ### Alterando o seu chatbot
 
 - Feche o bot usando CTRL+C.
-- Abra o software em python usando um editor de texto (use o comando abaixo). 
+- Abra o software em python usando um editor de texto (use o comando gedit abaixo). 
 - Faça as alterações com cuidado (começando buscando e mudando os textos de resposta) e salve.
-- Rode novamente o BOT com os comandos anteriores.
+- Rode novamente o bot com os comandos anteriores (python ...).
 
 ```
 gedit coletaImagens.py
 ```
-
 
 
 ### Próximos passos
