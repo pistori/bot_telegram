@@ -1,4 +1,4 @@
-# Exemplos botTelegram
+# Exemplos bot_telegram
 
 Descrição: Exemplos de códigos em python que funcionam como chatbots para o telegram.
 
