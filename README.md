@@ -62,7 +62,7 @@ unzip bot_tel*
 ```
 - Entre na pasta descompactada
 ```
-cd bot_telegram-master
+cd bot_telegram-main
 ```
 
 - Rode um dos comandos abaixo para iniciar o seu BOT. Não esqueça de trocar pelo TOKEN que você criou anteriormente usando o @botfather
