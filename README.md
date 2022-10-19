@@ -72,6 +72,19 @@ python coletaImagens.py SEU_TOKEN_AQUI
 python botTelegram.py SEU_TOKEN_AQUI 
 ```
 
+### Alterando o seu chatbot
+
+- Feche o bot usando CTRL+C.
+- Abra o software em python usando um editor de texto (use o comando abaixo). 
+- Faça as alterações com cuidado (começando buscando e mudando os textos de resposta) e salve.
+- Rode novamente o BOT com os comandos anteriores.
+
+```
+gedit coletaImagens.py
+```
+
+
+
 ### Próximos passos
 
 Depois de coletar suas imagens para treinar uma inteligência artificial você pode estudar e utilizar os códigos disponíveis no link abaixo para treinar a sua inteligência artificial (use o exemplo_v4):
